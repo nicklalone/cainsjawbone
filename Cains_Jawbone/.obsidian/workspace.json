@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "31196e418e9f787f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5c1f71b34e4c2a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73014a1799c9aef3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Page Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca45e4b8d0481158",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary Writeups/1-10-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13a2ab136e79d4d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary Writeups/1-10-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a07ded7c0ab5c49",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa57c0b1a065f977",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "605048579a1b0b57",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5da7b277c54bdc21",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30204524b6ff6bd1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "098f7f1d23ddfb4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7999d878543a672c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f37c702cf70c7c7b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Diary Writeups/1-10-24.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f46743c1371a3f7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Diary Writeups/1-10-24.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9dc7fa9ce704acdd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f718a7aa93dea868",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Diary Writeups/1-10-24.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "13a2ab136e79d4d5",
+  "lastOpenFiles": [
+    "Diary Writeups/1-11-24.md",
+    "Diary Writeups/1-10-24.md",
+    "Page Notes.md",
+    "Event Notes.md",
+    "People Notes.md",
+    "Phrases.md",
+    "Murder Notes.md",
+    "Page Order.md",
+    "Literary References.md",
+    "Stable Theories.md",
+    "Location Notes.md",
+    "Murder Weapons.md",
+    "Diary Writeups",
+    "Pages"
+  ]
+}

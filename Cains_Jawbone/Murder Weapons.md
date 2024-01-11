@@ -1,0 +1,1 @@
+#page3:At my meeting with #Clement yesterday, he had been quite specific : less than twenty thousand yards as average---seventeen thousand six hundred to be exact---full ration of the #assassin’s wonderful substance, a little act of justice at the end of less than a week, and then the glorious stuff galore for ever.
