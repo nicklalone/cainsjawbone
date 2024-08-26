@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Location Notes.md",
+                "file": "Page Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Location Notes.md",
+                "file": "Page Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Location Notes.md",
+                "file": "Page Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Location Notes.md"
+                "file": "Page Notes.md"
               }
             }
           }
@@ -173,17 +173,17 @@
   },
   "active": "13a2ab136e79d4d5",
   "lastOpenFiles": [
-    "Literary References.md",
-    "Event Notes.md",
+    "Stable Theories.md",
+    "Page Notes.md",
     "Diary Writeups/1-10-24.md",
     "Diary Writeups/1-11-24.md",
-    "Page Notes.md",
+    "Location Notes.md",
+    "Literary References.md",
+    "Event Notes.md",
     "People Notes.md",
     "Phrases.md",
     "Murder Notes.md",
     "Page Order.md",
-    "Stable Theories.md",
-    "Location Notes.md",
     "Murder Weapons.md",
     "Diary Writeups",
     "Pages"

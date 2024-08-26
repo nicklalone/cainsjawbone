@@ -19,3 +19,13 @@ Cressida. - Greek myth about a woman from Troy who fell in love with an officer 
 
 #page10: On this page, the narrator is discussing a bet between 2 people. The man will get cigarettes if he wins. The woman will get 3 pairs of etam dawn mist? There is a #bet between a man and a woman. It seems to be coming to a head on Hyacinth's Day which may be a reference to May 6th? Also to Jasmine's day. "She drooped long seed pearl things right over the soup. Ear-drops, as my mother had called them, I never could abide ; probably because I belonged to the other side of the family. My mistress wore them ; was it for that that I had begun to tire of her already?" - Is the narrator tired of his mistress? If so, who is it?
 
+#page11:
+
+#page12:
+
+#page13:
+
+#page14:
+
+#page15:
+
