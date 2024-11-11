@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a5c1f71b34e4c2a9",
+        "id": "2acb865bddd0eeaf",
         "type": "tabs",
         "children": [
           {
-            "id": "73014a1799c9aef3",
+            "id": "7f5830f1ebf46bae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Page Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca45e4b8d0481158",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary Writeups/1-10-24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13a2ab136e79d4d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Page Notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Page Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Page Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Page Notes.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,11 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13a2ab136e79d4d5",
+  "active": "7f5830f1ebf46bae",
   "lastOpenFiles": [
-    "Stable Theories.md",
     "Page Notes.md",
     "Diary Writeups/1-10-24.md",
+    "Stable Theories.md",
     "Diary Writeups/1-11-24.md",
     "Location Notes.md",
     "Literary References.md",
